@@ -1,36 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Idonio
 
-You can use the [editor on GitHub](https://github.com/erikleo/idonio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Idonio is your source for the latest technology
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Are happy to provide new and exiting techolgical updates to our customers.
 
-### Markdown
+### Tech updates
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Source code repositroy
 
-```markdown
-Syntax highlighted code block
+```using git
+run git
 
-# Header 1
-## Header 2
-### Header 3
+# git status
+## git push
+### git pull
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- merging
+- rebasing
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Checkout git hub (https://github.com/).
 
-### Jekyll Themes
+### why do i need it
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erikleo/idonio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Source control will save you time and make sure that you don't loose your valuable work
 
 ### Support or Contact
 
